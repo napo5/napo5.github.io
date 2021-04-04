@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Pretini</title>
+    <link>http://napo5.github.io/</link>
+    <description>Recent content on Luca Pretini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://napo5.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inter-Juventus, Social Analytics di un big match</title>
+      <link>http://napo5.github.io/projects/interjuventus/</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/projects/interjuventus/</guid>
+      <description>Network Analysis e Sentiment Analyisis su Twitter</description>
+    </item>
+    
+    <item>
+      <title>Polarizzazione in Reddit</title>
+      <link>http://napo5.github.io/projects/reddit/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/projects/reddit/</guid>
+      <description>Studio sulla polarizzazione semantica di alcune coppie di subreddit</description>
+    </item>
+    
+    <item>
+      <title>Pattern Recognition e ritenzione degli introni</title>
+      <link>http://napo5.github.io/projects/patternrecognition/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/projects/patternrecognition/</guid>
+      <description>Sviluppo di un software per analisi di sequenze in R/Java e analisi di un caso studio</description>
+    </item>
+    
+    <item>
+      <title>MyCity, uno spazio per la gestione dei comuni</title>
+      <link>http://napo5.github.io/projects/mycity/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/projects/mycity/</guid>
+      <description>Proposta di Web App per mettere in contatto cittadini e amministrazione</description>
+    </item>
+    
+    <item>
+      <title>Chi sono</title>
+      <link>http://napo5.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/aboutme/</guid>
+      <description>Attualmente studente del corso di laurea magistrale in Data Science presso l&amp;rsquo;Universitá di Milano-Bicocca, ho ottenuto in precedenza la Laurea in Informatica presso l&amp;rsquo;Universitá di Camerino.
+Il mio percorso di studi mi ha permesso di svolgere diversi progetti,i principali sono visualizzabili nella home di questo sito.
+I miei campi di interesse principali sono Data Management, Sentiment Analysis, Cloud Computing, con una particolare passione per tutto ció che riguarda il mondo GNU/Linux.</description>
+    </item>
+    
+  </channel>
+</rss>
