@@ -1,6 +1,6 @@
 ---
 title: Inter-Juventus, Social Analytics di un big match
-date: 2021-03-12
+date: 2021-02-11
 
 summary: Network Analysis e Sentiment Analyisis su Twitter
 

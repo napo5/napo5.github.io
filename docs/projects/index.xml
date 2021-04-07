@@ -6,11 +6,20 @@
     <description>Recent content in Projects on Luca Pretini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://napo5.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://napo5.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Riconoscimento di titoli clickbait, un caso di Text Mining</title>
+      <link>http://napo5.github.io/projects/clickbait/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://napo5.github.io/projects/clickbait/</guid>
+      <description>Tecniche di Clustering e classificazione</description>
+    </item>
+    
     <item>
       <title>Inter-Juventus, Social Analytics di un big match</title>
       <link>http://napo5.github.io/projects/interjuventus/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>http://napo5.github.io/projects/interjuventus/</guid>
       <description>Network Analysis e Sentiment Analyisis su Twitter</description>
